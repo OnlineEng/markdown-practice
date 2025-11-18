@@ -8,7 +8,7 @@
 _Andor stands apart from your typical Star Wars media by not follow the force or Skywalker family directly. It features a grounded tone with sharp writing and is closer to political espionage than your typical space opera spectacle._  
 
 **_Focusing on ordinary people pushed into rebellion by an oppressive facist power, the show feels extremely modern and relevant._**
-
+  \
 
 1. Premiered in 2022 on Disney+
 
@@ -18,7 +18,7 @@ _Andor stands apart from your typical Star Wars media by not follow the force or
 
 4. Both seasons have 12 episodes
 
-5. 40-60 minutes per episode  
+5. 40-60 minutes per episode  \
 
 
 
@@ -26,11 +26,11 @@ _Andor stands apart from your typical Star Wars media by not follow the force or
 
 - The story 2 seasons long and is mostly told in 3 episode arcs 
 
-- I cried at least 4 times, shhh  
+- I cried at least 4 times, shhh  \
 
 
 
-[Andor - Rotten Tomatoes 96% / 89%] (https://www.rottentomatoes.com/tv/andor)
+[Andor - Rotten Tomatoes 96% / 89%](https://www.rottentomatoes.com/tv/andor)
 
 
 `lightning-in-a-bottle="Andor"`
@@ -39,7 +39,7 @@ _Andor stands apart from your typical Star Wars media by not follow the force or
 {
  print(f"A great example of 'lightning in a bottle is {lightning-in-a-bottle}'")
 }
-``` 
+```  \
 
 
 | Andor cast  | Character   |   Actor      |
