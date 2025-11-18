@@ -3,8 +3,10 @@
 ## TV Show
 ### 2022
 
-**A sequel to Rogue One, the show follows Cassian Andor, a small-time thief who becomes a key figure in the early Rebel Alliance**
-_Andor stands apart from your typical Star Wars media by not follow the force or Skywalker family directly. It features a grounded tone with sharp writing and is closer to political espionage than your typical space opera spectacle._
+**A sequel to Rogue One, the show follows Cassian Andor, a small-time thief who becomes a key figure in the early Rebel Alliance.**  
+
+_Andor stands apart from your typical Star Wars media by not follow the force or Skywalker family directly. It features a grounded tone with sharp writing and is closer to political espionage than your typical space opera spectacle._  
+
 **_Focusing on ordinary people pushed into rebellion by an oppressive facist power, the show feels extremely modern and relevant._**
 
 
@@ -16,17 +18,19 @@ _Andor stands apart from your typical Star Wars media by not follow the force or
 
 4. Both seasons have 12 episodes
 
-5. 40-60 minutes per episode
+5. 40-60 minutes per episode  
+
 
 
 - The show won five Primetime Emmys in 2025, including Outstanding Writing for a Drama Series
 
 - The story 2 seasons long and is mostly told in 3 episode arcs 
 
-- I cried at least 4 times, shhh
+- I cried at least 4 times, shhh  
 
 
-[Andor - Rotten Tomatoes (96% / 89%)] (https://www.rottentomatoes.com/tv/andor)
+
+[Andor - Rotten Tomatoes 96% / 89%] (https://www.rottentomatoes.com/tv/andor)
 
 
 `lightning-in-a-bottle="Andor"`
